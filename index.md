@@ -65,8 +65,8 @@ The development process for stUHdy cubby conformed to [Issue Driven Project Mana
 ### Milestone 1
 The goal of Milestone 1 was to create a set of mockup pages providing an overall mockup of the project.
 
-Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby.github.io/projects/2)
-):
+Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby.github.io/projects/2):
+
 ![](imgs/m1-screenshot.png)
 
 ## Example Enhancements
