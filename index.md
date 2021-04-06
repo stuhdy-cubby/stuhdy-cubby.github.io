@@ -1,7 +1,9 @@
 ## Table of Contents
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Example Enhancements](#example-enhancements)
+* [Development History](#development-history)
 * [Community Feedback](#community-feedback)
 * [Team](#team)
 
@@ -12,7 +14,10 @@ ICS students often spend more time than they need on their homework and don’t 
 ### The Solution
 stuhdy cubby is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
-# User Guide
+## Deployment
+A live deployment of stUHdy cubby can be found at https://stuhdy-cubby.github.io/.
+
+## User Guide
 ### Landing page
 
 ![](imgs/landing.png)
@@ -44,6 +49,24 @@ stuhdy cubby is an application for UHM ICS students to self-organize face-to-fac
 ### Game mechanic page(s) (for example, a leaderboard?)
 
 ![](imgs/gamemechanic.png)
+
+## Development History
+The development process for stUHdy cubby conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s21/morea/project-management/reading-guidelines-idpm.html) practices. In a nutshell:
+
+* Development consists of a sequence of Milestones.
+* Each Milestone is specified as a set of tasks.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+* Tasks should typically consist of work that can be completed in 2-4 days.
+* The work for each task is accomplished with a git branch named “issue-XX”, where XX is replaced by the issue number.
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+* The following sections document the development history of BowFolios.
+
+### Milestone 1
+The goal of Milestone 1 was to create a set of mockup pages providing an overall mockup of the project.
+
+Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1]():
+![](imgs/m1-screenshot.png)
 
 ## Example Enhancements
 * Text message interface. See notifications, and reply to confirm attendance all through text message.
