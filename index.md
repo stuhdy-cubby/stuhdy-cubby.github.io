@@ -14,6 +14,9 @@ stuhdy cubby is an application for UHM ICS students to self-organize face-to-fac
 
 # User Guide
 ### Landing page
+
+![](imgs/landing.png)
+
 ### User home page
 ### Admin home page
 ### User profile page
