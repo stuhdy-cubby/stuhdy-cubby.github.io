@@ -18,12 +18,32 @@ stuhdy cubby is an application for UHM ICS students to self-organize face-to-fac
 ![](imgs/landing.png)
 
 ### User home page
+
+![](imgs/userhomepage.png)
+
 ### Admin home page
+
+![](imgs/admin.png)
+
 ### User profile page
+
+![](imgs/user-profile.png)
+
 ### Calendar page
+
+![](imgs/calendar.png)
+
 ### Create Study Sesh page
+
+![](imgs/createsession.png)
+
 ### Study session page
+
+![](imgs/studysession.png)
+
 ### Game mechanic page(s) (for example, a leaderboard?)
+
+![](imgs/gamemechanic.png)
 
 ## Example Enhancements
 * Text message interface. See notifications, and reply to confirm attendance all through text message.
