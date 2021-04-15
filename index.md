@@ -54,11 +54,11 @@ A live deployment of stUHdy cubby can be found at [http://104.236.4.162/#/](http
 
 ### Create Study Sesh page
 
-![](imgs/createsession.png)
+![](imgs/mockupaddsession.png)
 
 ### Study session page
 
-![](imgs/studysession.png)
+![](imgs/mockupsession.png)
 
 ### Game mechanic page(s) (for example, a leaderboard?)
 
