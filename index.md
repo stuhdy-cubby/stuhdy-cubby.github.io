@@ -17,12 +17,7 @@ ICS students often spend more time than they need on their homework and don’t 
 stuhdy cubby is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
 ## Deployment
-GitHub organization can be found at [https://github.com/stuhdy-cubby](https://github.com/stuhdy-cubby). A live deployment of stUHdy cubby can be found at [http://104.236.4.162/#/](http://104.236.4.162/#/).
-
-### Project Board
-[M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1)
-
-[M2](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/2)
+A live deployment of stUHdy cubby can be found at [http://104.236.4.162/#/](http://104.236.4.162/#/).
 
 ## User Guide
 ### Landing page
@@ -33,13 +28,17 @@ GitHub organization can be found at [https://github.com/stuhdy-cubby](https://gi
 
 ![](imgs/deployedsignin.png)
 
+### Sign up page
+
+![](imgs/deployedsignup.png)
+
 ### 404 page
 
 ![](imgs/deployed404.png)
 
 ### User home page
 
-![](imgs/userhomepage.png)
+![](imgs/deployeduserhomepage.png)
 
 ### Admin home page
 
@@ -51,7 +50,7 @@ GitHub organization can be found at [https://github.com/stuhdy-cubby](https://gi
 
 ### Calendar page
 
-![](imgs/calendar.png)
+![](imgs/deployedcalendar.png)
 
 ### Create Study Sesh page
 
@@ -80,9 +79,14 @@ The development process for stUHdy cubby conformed to [Issue Driven Project Mana
 ### Milestone 1
 The goal of Milestone 1 was to create a set of mockup pages providing an overall mockup of the project.
 
-Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby.github.io/projects/2):
+Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1):
 
 ![](imgs/m1-screenshot.png)
+
+### Project Board
+[M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1)
+
+[M2](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/2)
 
 ## Example Enhancements
 * Text message interface. See notifications, and reply to confirm attendance all through text message.
