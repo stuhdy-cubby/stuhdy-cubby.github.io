@@ -17,7 +17,8 @@ ICS students often spend more time than they need on their homework and don’t 
 stuhdy cubby is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
 ## Deployment
-A live deployment of stUHdy cubby can be found at https://stuhdy-cubby.github.io/.
+GitHub organization can be found at https://github.com/stuhdy-cubby
+A live deployment of stUHdy cubby can be found at http://104.236.4.162/#/.
 
 ## User Guide
 ### Landing page
