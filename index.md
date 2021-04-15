@@ -79,9 +79,7 @@ The development process for stUHdy cubby conformed to [Issue Driven Project Mana
 ### Milestone 1
 The goal of Milestone 1 was to create a set of mockup pages providing an overall mockup of the project.
 
-Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1):
-
-![](imgs/m1-screenshot.png)
+Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1).
 
 ### Project Board
 [M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1)
@@ -98,4 +96,4 @@ Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://git
 We are interested in your experience using stuhdy cubby! If you would like, please contact the team to provide feedback on the project.
 
 ## Team
-stuhdy cubby is designed, implemented, and maintained by Susan Ma, Yhanessa Sales, and Christine Ramos.
+stuhdy cubby is designed, implemented, and maintained by [Susan Ma](https://susankpma.github.io/), [Yhanessa Sales](https://yhanessaanne.github.io/), and [Christine Ramos](https://christinebramos.github.io/).
