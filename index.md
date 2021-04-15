@@ -46,7 +46,7 @@ A live deployment of stUHdy cubby can be found at [http://104.236.4.162/#/](http
 
 ### User profile page
 
-![](imgs/user-profile.PNG)
+![](imgs/user-profile-mockup.PNG)
 
 ### Calendar page
 
