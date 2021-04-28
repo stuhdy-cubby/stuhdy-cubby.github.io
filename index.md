@@ -17,7 +17,7 @@ ICS students often spend more time than they need on their homework and don’t 
 stuhdy cubby is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
 ## Deployment
-A live deployment of stUHdy cubby can be found at [http://104.236.4.162/#/](http://104.236.4.162/#/).
+A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](https://stuhdy-cubby.xyz/#/).
 
 ## User Guide
 ### Landing page
@@ -81,10 +81,17 @@ The goal of Milestone 1 was to create a set of mockup pages providing an overall
 
 Milestone 1 was managed using [stUHdy cubby GitHub Project Board M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1).
 
+### Milestone 2
+The goal of Milestone 2 was to create functional pages of the project.
+
+Milestone 2 was managed using [stUHdy cubby GitHub Project Board M2](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/2).
+
 ### Project Board
 [M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1)
 
 [M2](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/2)
+
+[M3](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/3)
 
 ## Example Enhancements
 * Text message interface. See notifications, and reply to confirm attendance all through text message.
