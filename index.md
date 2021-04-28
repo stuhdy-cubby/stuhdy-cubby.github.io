@@ -42,11 +42,11 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 
 ### Admin home page
 
-![](imgs/admin.png)
+![](imgs/liveadminhome.png)
 
 ### User profile page
 
-![](imgs/user-profile-mockup.png)
+![](imgs/liveprofile.png)
 
 ### Calendar page
 
@@ -59,6 +59,10 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 ### List session page
 
 ![](imgs/livesessions.png)
+
+### Register session page
+
+![](imgs/liveregistersession.png)
 
 ### Game mechanic page(s) (for example, a leaderboard?)
 
@@ -74,7 +78,11 @@ The development process for stUHdy cubby conformed to [Issue Driven Project Mana
 * The work for each task is accomplished with a git branch named “issue-XX”, where XX is replaced by the issue number.
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
-* The following sections document the development history of BowFolios.
+
+## Testcafe
+Testcafe was used to test the project pages.
+
+![](imgs/livetestcafe.png)
 
 ### Milestone 1
 The goal of Milestone 1 was to create a set of mockup pages providing an overall mockup of the project.
