@@ -22,23 +22,23 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 ## User Guide
 ### Landing page
 
-![](imgs/deployedlanding.png)
+![](imgs/livelanding.png)
 
 ### Sign in page
 
-![](imgs/deployedsignin.png)
+![](imgs/livesignup.png)
 
 ### Sign up page
 
-![](imgs/deployedsignup.png)
+![](imgs/liveregister.png)
 
 ### 404 page
 
-![](imgs/deployed404.png)
+![](imgs/livenotfound.png)
 
 ### User home page
 
-![](imgs/deployeduserhomepage.png)
+![](imgs/liveuserhome.png)
 
 ### Admin home page
 
@@ -50,15 +50,15 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 
 ### Calendar page
 
-![](imgs/deployedcalendar.png)
+![](imgs/livecalendar.png)
 
 ### Create Study Sesh page
 
-![](imgs/mockupaddsession.png)
+![](imgs/liveaddsession.png)
 
-### Study session page
+### List session page
 
-![](imgs/mockupsession.png)
+![](imgs/livesessions.png)
 
 ### Game mechanic page(s) (for example, a leaderboard?)
 
