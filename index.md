@@ -21,6 +21,22 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 
 ## User Guide
 The user guide provides a walkthrough of each page of stUHdy Cubby and its user interface features.
+* [Landing page](#landing-page)
+* [Sign in page](#sign-in-page)
+* [Sign up page](#sign-up-page)
+* [404 page](#404-page)
+* [User home page](#user-home-page)
+* [Admin home page](#admin-home-page)
+* [User profile page](#user-profile-page)
+* [Edit Profile page](#edit-profile-page)
+* [Calendar page](#calendar-page)
+* [Create Study Sesh page](#create-study-sesh-page)
+* [List session page](#list-session-page)
+* [Register session page](#register-session-page)
+* [Profiles page](#profiles-page)
+* [Leaderboard page](#leadboard-page)
+
+
 ### Landing page
 The user is greeted with a simple landing page with a brief introudction about the features of stUHdy cubby.
 ![](imgs/final_landing.png)
