@@ -21,15 +21,15 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 
 ## User Guide
 ### Landing page
-
+The user is greeted with a simple landing page with a brief introudction about the features of stUHdy cubby.
 ![](imgs/final_landing.png)
 
 ### Sign in page
-
+The sign in page allows the user to login with an existing account.
 ![](imgs/livesignup.png)
 
 ### Sign up page
-
+The sign up page allows the user to create a new account if they don't already have one. To this, click on "Login" then "Sign up." Only an email and password are required for a new account.
 ![](imgs/liveregister.png)
 
 ### 404 page
