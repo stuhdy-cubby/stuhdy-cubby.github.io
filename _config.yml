@@ -1,5 +1,5 @@
 title: stUHdy Cubby
 description: A web application for UH ICS students to study and collaborate
 google_analytics:
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-tactile
