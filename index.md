@@ -34,7 +34,7 @@ The user guide provides a walkthrough of each page of stUHdy Cubby and its user 
 * [List session page](#list-session-page)
 * [Register session page](#register-session-page)
 * [Profiles page](#profiles-page)
-* [Leaderboard page](#leadboard-page)
+* [Leaderboard page](#leaderboard-page)
 
 
 ### Landing page
