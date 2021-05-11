@@ -63,19 +63,19 @@ The calendar page allows the user to view a calendar containing study session ev
 ![](imgs/livecalendar.png)
 
 ### Create Study Sesh page
-The create se
+The add study session page is where the user can create a study session for students to participate in. They input information such as topic, course, location, date, and session notes. 
 ![](imgs/final_create.png)
 
 ### List session page
-
+Once a study session has been created, the session appears on the sessions list page. Users can see information about a session as well as register for one. They will also be allowed to see a list of participants in a session
 ![](imgs/livesessions.png)
 
 ### Register session page
-
+A user can register for a session by clicking on an event on the calendar or clicking register on the sessions list page. From there, they will be taken to the register for session page. The user enters their response and submits the form to successfully register for a study session.
 ![](imgs/final_register.png)
 
-### Game mechanic page(s) (for example, a leaderboard?)
-
+### Leaderboard page
+The leaderboard page encourages students to register and attend study sessions. A user will earn one point for every session they register for. The user with the highest points will be displayed on the top of the leaderboard to let everyone know.
 ![](imgs/gamemechanic.png)
 
 ## Development History
