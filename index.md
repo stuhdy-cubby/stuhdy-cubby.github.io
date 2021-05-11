@@ -48,6 +48,14 @@ A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](
 
 ![](imgs/final_profile.png)
 
+### Edit Profile Page
+
+![](imgs/final_edit.png)
+
+### Edit Course page
+
+![](imgs/final_editcourses.png)
+
 ### Calendar page
 
 ![](imgs/livecalendar.png)
