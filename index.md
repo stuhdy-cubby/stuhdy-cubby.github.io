@@ -104,6 +104,11 @@ The goal of Milestone 2 was to create functional pages of the project.
 
 Milestone 2 was managed using [stUHdy cubby GitHub Project Board M2](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/2).
 
+### Milestone 3
+The goal of Milestone 3 was to design pages of the project to fully finish the web application.
+
+Milestone 3 was managed using [stUHdy cubby GitHub Project Board M3](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/3).
+
 ### Project Board
 [M1](https://github.com/stuhdy-cubby/stuhdy-cubby/projects/1)
 
