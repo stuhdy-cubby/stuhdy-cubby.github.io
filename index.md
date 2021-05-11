@@ -75,6 +75,10 @@ Once a study session has been created, the session appears on the sessions list 
 A user can register for a session by clicking on an event on the calendar or clicking register on the sessions list page. From there, they will be taken to the register for session page. The user enters their response and submits the form to successfully register for a study session.
 ![](imgs/final_register.png)
 
+### Profiles Page
+The profiles page allows users to view current profiles and their short introductions.
+![](imgs/final_profilespage.png)
+
 ### Leaderboard page
 The leaderboard page encourages students to register and attend study sessions. A user will earn one point for every session they register or create. The user with the highest points will be displayed on the top of the leaderboard to let everyone know.
 ![](imgs/final_leaderboard.png)
