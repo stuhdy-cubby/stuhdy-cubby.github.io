@@ -51,19 +51,19 @@ Users also has the option to edit their profile and edit courses on this page.
 ![](imgs/final_profile.png)
 
 ### Edit Profile Page
-
+The edit profile page gives the user the ability to change information about themselves that are displayed on their profiles.
 ![](imgs/final_edit.png)
 
 ### Edit Course page
-
+The edit course page is where the user can add or remove sensei or grasshopper courses to let others know what courses they are willing to help others with or courses they need assistance in.
 ![](imgs/final_editcourses.png)
 
 ### Calendar page
-
+The calendar page allows the user to view a calendar containing study session events. The user can click on the event to show more info about the event and to register for that session.
 ![](imgs/livecalendar.png)
 
 ### Create Study Sesh page
-
+The create se
 ![](imgs/final_create.png)
 
 ### List session page
