@@ -76,7 +76,7 @@ A user can register for a session by clicking on an event on the calendar or cli
 ![](imgs/final_register.png)
 
 ### Profiles Page
-The profiles page allows users to view current profiles and their short introductions.
+The profiles page allows users to view current profiles.
 ![](imgs/final_profilespage.png)
 
 ### Leaderboard page
