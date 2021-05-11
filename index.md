@@ -42,8 +42,8 @@ When a user successfully logs into their stUHdy cubby account, they have access 
 ![](imgs/final_homepage.png)
 
 ### Admin home page
-
-![](imgs/liveadminhome.png)
+The admin home page is where the admin can view all current and past sessions as well as their own created sessions.
+![](imgs/final_admin.png)
 
 ### User profile page
 The user profile page contains information about the user. It is divided up into three sections. The left side contains the user's basic information such as name, email, school, major, and class standing. The middle section dispalys the user's course and if they are a sensei(tutor) or grasshopper(tutee) of a course. This section also shows the skills the user possess. Lastly, the right section has the user's interests and study sessions thhey are attending. 
@@ -61,15 +61,15 @@ The edit course page is where the user can add or remove sensei or grasshopper c
 
 ### Calendar page
 The calendar page allows the user to view a calendar containing study session events. The user can click on the event to show more info about the event and to register for that session.
-![](imgs/livecalendar.png)
+![](imgs/final_calendar.png)
 
 ### Create Study Sesh page
-The add study session page is where the user can create a study session for students to participate in. They input information such as topic, course, location, date, and session notes. 
+The add study session page is where the user can create a study session for students to participate in. They input information such as topic, course, location, date, and session notes. When a session is created, an email notification will be sent out.
 ![](imgs/final_create.png)
 
 ### List session page
 Once a study session has been created, the session appears on the sessions list page. Users can see information about a session as well as register for one. They will also be allowed to see a list of participants in a session
-![](imgs/livesessions.png)
+![](imgs/final_list.png)
 
 ### Register session page
 A user can register for a session by clicking on an event on the calendar or clicking register on the sessions list page. From there, they will be taken to the register for session page. The user enters their response and submits the form to successfully register for a study session.
