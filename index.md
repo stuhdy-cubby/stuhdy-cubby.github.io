@@ -1,6 +1,6 @@
 # stUHdy cubby
 
-![ci-badge](https://github.com/stuhdy-cubby/stuhdy-cubby/workflows/ci-meteor-application-template-react/badge.svg)
+![ci-badge](https://github.com/stuhdy-cubby/stuhdy-cubby/workflows/stuhdy-cubby/badge.svg)
 
 ## Table of Contents
 * [Overview](#overview)
