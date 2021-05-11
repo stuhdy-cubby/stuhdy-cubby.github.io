@@ -6,6 +6,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [Example Enhancements](#example-enhancements)
 * [Development History](#development-history)
 * [Community Feedback](#community-feedback)
@@ -100,6 +101,20 @@ The profiles page allows users to view current profiles.
 ### Leaderboard page
 The leaderboard page encourages students to register and attend study sessions. A user will earn one point for every session they register or create. The user with the highest points will be displayed on the top of the leaderboard to let everyone know.
 ![](imgs/final_leaderboard.png)
+
+## Developer Guide
+
+Step 1: Install Meteor
+
+Step 2: Download a copy of stUHdy cubby
+
+Step 3: cd into the app directory and install required libraries with: ```meteor npm install```
+
+Step 4: Run application with: ```meteor npm run start```
+
+Steo 5: If steps 1-4 were successful, http://localhost:3000 should appear and allow you access to the digits application. You can either regesiter with a new account or use the login credentials found in settings.development.json
+
+Step 6: With ```meteor npm run lint``` you can run ESLint on the code to check for any errors in the imports/directory.
 
 ## Development History
 The development process for stUHdy cubby conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s21/morea/project-management/reading-guidelines-idpm.html) practices. In a nutshell:
