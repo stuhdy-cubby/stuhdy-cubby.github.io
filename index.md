@@ -1,5 +1,4 @@
-# stUHdy cubby
-
+View <a href="https://github.com/stuhdy-cubby">stUHdy cubby project on GitHub</a>
 ![ci-badge](https://github.com/stuhdy-cubby/stuhdy-cubby/workflows/stuhdy-cubby/badge.svg)
 
 ## Table of Contents
