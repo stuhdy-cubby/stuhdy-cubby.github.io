@@ -76,8 +76,8 @@ A user can register for a session by clicking on an event on the calendar or cli
 ![](imgs/final_register.png)
 
 ### Leaderboard page
-The leaderboard page encourages students to register and attend study sessions. A user will earn one point for every session they register for. The user with the highest points will be displayed on the top of the leaderboard to let everyone know.
-![](imgs/gamemechanic.png)
+The leaderboard page encourages students to register and attend study sessions. A user will earn one point for every session they register or create. The user with the highest points will be displayed on the top of the leaderboard to let everyone know.
+![](imgs/final_leaderboard.png)
 
 ## Development History
 The development process for stUHdy cubby conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314s21/morea/project-management/reading-guidelines-idpm.html) practices. In a nutshell:
