@@ -33,11 +33,11 @@ The sign up page allows the user to create a new account if they don't already h
 ![](imgs/liveregister.png)
 
 ### 404 page
-
+The 404 page appears when a page cannot be found.
 ![](imgs/final_404.png)
 
 ### User home page
-
+When a user successfully logs into their stUHdy cubby account, they have access to all the feature the app has to offer to ICS students looking to study. The nav bar includes the ability to view a list of sessions, calendar, add session, leaderboard, courses list, and profiles. The nav bar also allows the user to click on the email to view or edit their profile.
 ![](imgs/final_homepage.png)
 
 ### Admin home page
@@ -45,7 +45,9 @@ The sign up page allows the user to create a new account if they don't already h
 ![](imgs/liveadminhome.png)
 
 ### User profile page
+The user profile page contains information about the user. It is divided up into three sections. The left side contains the user's basic information such as name, email, school, major, and class standing. The middle section dispalys the user's course and if they are a sensei(tutor) or grasshopper(tutee) of a course. This section also shows the skills the user possess. Lastly, the right section has the user's interests and study sessions thhey are attending. 
 
+Users also has the option to edit their profile and edit courses on this page.
 ![](imgs/final_profile.png)
 
 ### Edit Profile Page
