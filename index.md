@@ -20,6 +20,7 @@ stuhdy cubby is an application for UHM ICS students to self-organize face-to-fac
 A live deployment of stUHdy cubby can be found at [https://stuhdy-cubby.xyz/#/](https://stuhdy-cubby.xyz/#/).
 
 ## User Guide
+The user guide provides a walkthrough of each page of stUHdy Cubby and its user interface features.
 ### Landing page
 The user is greeted with a simple landing page with a brief introudction about the features of stUHdy cubby.
 ![](imgs/final_landing.png)
