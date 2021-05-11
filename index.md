@@ -4,6 +4,7 @@
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+*   [Landing Page](#Landing page)
 * [Example Enhancements](#example-enhancements)
 * [Development History](#development-history)
 * [Community Feedback](#community-feedback)
