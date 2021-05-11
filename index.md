@@ -104,15 +104,15 @@ The leaderboard page encourages students to register and attend study sessions. 
 
 ## Developer Guide
 
-Step 1: Install Meteor
+Step 1: Install <a href="https://www.meteor.com/developers/install">Meteor</a>
 
-Step 2: Download a copy of stUHdy cubby
+Step 2: Download a copy of <a href="https://github.com/stuhdy-cubby/stuhdy-cubby">copy of stUHdy cubby</a>
 
 Step 3: cd into the app directory and install required libraries with: ```meteor npm install```
 
 Step 4: Run application with: ```meteor npm run start```
 
-Steo 5: If steps 1-4 were successful, http://localhost:3000 should appear and allow you access to the digits application. You can either regesiter with a new account or use the login credentials found in settings.development.json
+Steo 5: If steps 1-4 were successful, <a href="http://localhost:3000/">http://localhost:3000</a> should appear and allow you access to the digits application. You can either regesiter with a new account or use the login credentials found in settings.development.json
 
 Step 6: With ```meteor npm run lint``` you can run ESLint on the code to check for any errors in the imports/directory.
 
