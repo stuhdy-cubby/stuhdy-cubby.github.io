@@ -172,5 +172,7 @@ Tester 1 (Joy):
 * New session email > included a register link for a session in the past and allowed me to register for it
 * date/time does not appear to be consistent
 
+Several issues raised were fixed after Tester 1 completed testing.
+
 ## Team
 stuhdy cubby is designed, implemented, and maintained by [Susan Ma](https://susankpma.github.io/), [Yhanessa Sales](https://yhanessaanne.github.io/), and [Christine Ramos](https://christinebramos.github.io/).
