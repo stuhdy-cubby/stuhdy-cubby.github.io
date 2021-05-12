@@ -172,8 +172,6 @@ Tester 1 (Joy):
 * New session email > included a register link for a session in the past and allowed me to register for it
 * date/time does not appear to be consistent
 
-Several issues raised were fixed after Tester 1 completed testing.
-
 Tester 2 (Anonymous: "Danzo")
 * The site is well organized, very simple. 
 * but still has minor issues regarding the add a session category. 
@@ -183,6 +181,10 @@ Tester 3 (Anonymous: "Jane Bell")
 * Unable to add session, how to add courses, can't do anything else
 * Comfortable look 
 * Good to see the class list and who are the grasshoppers
+
+Fixes
+Several issues raised were fixed after Tester 1 completed testing.
+Tester 2 and 3 issues regarding adding sessions were fixed by adding an "Add Courses" button if users do not have Grasshopper courses.
 
 ## Team
 stuhdy cubby is designed, implemented, and maintained by [Susan Ma](https://susankpma.github.io/), [Yhanessa Sales](https://yhanessaanne.github.io/), and [Christine Ramos](https://christinebramos.github.io/).
