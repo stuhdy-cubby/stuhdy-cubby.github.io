@@ -179,5 +179,10 @@ Tester 2 (Anonymous: "Danzo")
 * but still has minor issues regarding the add a session category. 
 * For the most part the site worked as expected but when joining a session from the calendar took longer than using the sessions list section.
 
+Tester 3 (Anonymous: "Jane Bell")
+* Unable to add session, how to add courses, can't do anything else
+* Comfortable look 
+* Good to see the class list and who are the grasshoppers
+
 ## Team
 stuhdy cubby is designed, implemented, and maintained by [Susan Ma](https://susankpma.github.io/), [Yhanessa Sales](https://yhanessaanne.github.io/), and [Christine Ramos](https://christinebramos.github.io/).
