@@ -174,5 +174,10 @@ Tester 1 (Joy):
 
 Several issues raised were fixed after Tester 1 completed testing.
 
+Tester 2 (Anonymous: "Danzo")
+* The site is well organized, very simple. 
+* but still has minor issues regarding the add a session category. 
+* For the most part the site worked as expected but when joining a session from the calendar took longer than using the sessions list section.
+
 ## Team
 stuhdy cubby is designed, implemented, and maintained by [Susan Ma](https://susankpma.github.io/), [Yhanessa Sales](https://yhanessaanne.github.io/), and [Christine Ramos](https://christinebramos.github.io/).
