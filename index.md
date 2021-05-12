@@ -182,7 +182,7 @@ Tester 3 (Anonymous: "Jane Bell")
 * Comfortable look 
 * Good to see the class list and who are the grasshoppers
 
-Fixes
+### Fixes
 Several issues raised were fixed after Tester 1 completed testing.
 Tester 2 and 3 issues regarding adding sessions were fixed by adding an "Add Courses" button if users do not have Grasshopper courses.
 
