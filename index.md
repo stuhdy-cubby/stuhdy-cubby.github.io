@@ -161,7 +161,16 @@ Milestone 3 was managed using [stUHdy cubby GitHub Project Board M3](https://git
 * A rating system for meetings and sensei participation.
 
 ## Community Feedback
-We are interested in your experience using stuhdy cubby! If you would like, please contact the team to provide feedback on the project.
+Tester 1 (Joy):
+* edit profile - allows me to save with placeholder options (ex: institution, major, standing)
+* if you're already logged in,why does home > start collaborating take you to the login screen?
+* Sessions List - if there are no sessions to register for, perhaps a message should say that
+* Add Session - able to add session in the past
+* Register for Session - fields that are read only should be disabled/greyed out
+* Register for Session - after registering, should it take me back to the Sessions List?
+* Register for Session - should not allow same user to register multiple times
+* New session email > included a register link for a session in the past and allowed me to register for it
+* date/time does not appear to be consistent
 
 ## Team
 stuhdy cubby is designed, implemented, and maintained by [Susan Ma](https://susankpma.github.io/), [Yhanessa Sales](https://yhanessaanne.github.io/), and [Christine Ramos](https://christinebramos.github.io/).
