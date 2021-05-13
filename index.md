@@ -188,6 +188,17 @@ Tester 4 (Anonymous)
 * Possible addition: separation between registered courses and those not for the courses list page
 * Possible change: display user's first and last name for leaderboard instead of email
 
+Tester 5 (Anonymous)
+* Nice concept, easy to use
+* Profile images that are rectangular don't automatically change to a circle
+* "other" option on registration/edit profile forms should include a text input field
+* Add date to sessions list on user profile, display for all registered sessions
+
+Tester 6 (Anonymous)
+* Leaderboard is a nice touch
+* Information overlaps footer on sessions list page
+* not able to change profile picture when editing user profile
+
 ### Fixes
 Several issues raised were fixed after Tester 1 completed testing.
 Tester 2 and 3 issues regarding adding sessions were fixed by adding an "Add Courses" button if users do not have Grasshopper courses.
