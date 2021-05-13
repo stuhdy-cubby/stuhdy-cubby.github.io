@@ -182,6 +182,12 @@ Tester 3 (Anonymous: "Jane Bell")
 * Comfortable look 
 * Good to see the class list and who are the grasshoppers
 
+Tester 4 (Anonymous)
+* Simple and easy to navigate
+* Grateful for ability to edit profile details
+* Possible addition: separation between registered courses and those not for the courses list page
+* Possible change: display user's first and last name for leaderboard instead of email
+
 ### Fixes
 Several issues raised were fixed after Tester 1 completed testing.
 Tester 2 and 3 issues regarding adding sessions were fixed by adding an "Add Courses" button if users do not have Grasshopper courses.
